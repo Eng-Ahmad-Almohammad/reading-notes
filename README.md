@@ -2,8 +2,8 @@
 ## I used in them following features:
  ### 1- *Italic*
  ### 2- Tables
- ### 3- Check box with correct character
- ### 4- Check box without correct character
+ ### 3- Check box with correct character - [x]
+ ### 4- Check box without correct character - [ ]
  ### 5- Ordered lists
  ### 6- images
  ### 7- Links
