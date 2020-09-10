@@ -1,12 +1,18 @@
 # This file will be for *Read* assignments in *Code 201* class
 ## I used in them following features:
- ### 1- *Italic*
- ### 2- Tables
- ### 3- Check box with correct character
- ### 4- Check box without correct character
- ### 5- Ordered lists
- ### 6- images
- ### 7- Links
+ 1- *Italic*
+
+2- Tables
+
+- [x]  Check box with correct character 
+
+- [ ] Check box without correct character 
+
+5- Ordered lists
+
+6- images
+
+7- Links
 
  ## Table of content
 
