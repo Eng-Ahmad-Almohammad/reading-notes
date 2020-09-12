@@ -3,7 +3,7 @@
  |:---------: |:--------------:|
  |6|[Problem Domain](https://eng-ahmad-almohammad.github.io/problem-domain/)|
  |6|[Object Literals](https://eng-ahmad-almohammad.github.io/Object-Literals/)|
- |6|[Document Object Model](https://eng-ahmad-almohammad.github.io/Document-Object-Model/|)
+ |6|[Document Object Model](https://eng-ahmad-almohammad.github.io/Document-Object-Model/)|
 
 
 
