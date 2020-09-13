@@ -24,4 +24,4 @@
  |[Read 04](read04.md)|HTML Links, CSS Layout, JS Functions|
  |[Read 05](read05.md)|Images, Color, Text|
  |[Read 06](read06.md)|Problems Domain,  Object Literals,  Document Object Model|
- |[Read 07](read06.md)|Domain Modeling, Tables, Functions, Methods, and Objects|
+ |[Read 07](read07.md)|Domain Modeling, Tables, Functions, Methods, and Objects|
