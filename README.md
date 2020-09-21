@@ -30,3 +30,4 @@
  |[Read 10](read10.md)|Debugging|
  |[Read 11](read11.md)|Images, Audio and Video|
  |[Read 12](read12.md)|Charts and canvas element|
+ |[Read 13](read13.md)|Local Storage|
