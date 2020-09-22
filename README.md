@@ -31,4 +31,4 @@
  |[Read 11](read11.md)|Images, Audio and Video|
  |[Read 12](read12.md)|Charts and canvas element|
  |[Read 13](read13.md)|Local Storage|
- |[Read 14a](read14a)|Transforms,
+ |[Read 14a](read14a)|Transforms, Transitions & Animations|
