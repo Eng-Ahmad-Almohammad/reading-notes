@@ -32,3 +32,4 @@
  |[Read 12](read12.md)|Charts and canvas element|
  |[Read 13](read13.md)|Local Storage|
  |[Read 14a](read14a.md)|Transforms, Transitions & Animations|
+ |[Read 14b](read14b.md)|What Google Learned From Its Quest to Build the Perfect Team|
