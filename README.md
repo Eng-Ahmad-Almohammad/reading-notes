@@ -1,4 +1,12 @@
-# This file will be for *Read* assignments in *Code 201* class
+#Reading Notes
+## This file will be for *Read* assignments.
+### This website will include my notes for reading assinments durin the defferent levels.
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
+
+
 ## I used in them following features:
  1- *Italic*
 
