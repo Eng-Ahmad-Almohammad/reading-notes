@@ -1,4 +1,4 @@
-#Reading Notes
+# Reading Notes
 ## This file will be for *Read* assignments.
 ### This website will include my notes for reading assinments durin the defferent levels.
 ## Code 102 - Intro to Software Development
