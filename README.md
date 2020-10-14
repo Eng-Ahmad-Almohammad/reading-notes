@@ -1,6 +1,6 @@
 # Reading Notes
 ## This file will be for *Read* assignments.
-### This website will include my notes for reading assinments durin the defferent levels.
+### This website will include my notes for reading assignments durin the defferent levels.
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
