@@ -1,9 +1,9 @@
 # Table of contents
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
-|1| [Shay Howe’s intro to RWD](Shay-Howe's-intro-to-RWD.md)
-|1| [All about float](All-about-floats.md)
-|1| [Don't Overthink it grids](Don't-overthink-it-grids.md)
+|1|[Shay Howe’s intro to RWD](Shay-Howe's-intro-to-RWD.md)
+|1|[All about float](All-about-floats.md)
+|1|[Don't Overthink it grids](Don't-overthink-it-grids.md)
 
 
 
