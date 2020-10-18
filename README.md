@@ -48,3 +48,4 @@
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
  |[Read 01](301Read/read01/README.md)|RWD, All about float|
+ |[Read 02](301Read/read02/README.md)|jQuery, 6 Reasons for pair programming|
