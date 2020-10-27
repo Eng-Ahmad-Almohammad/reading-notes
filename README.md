@@ -54,3 +54,4 @@
  |[Read 05](301Read/read05/README.md)|Heroku|
  |Read 06](#)|Node.js|
  |[Read 07](301Read/read07/README.md)|What Google Learned From Its Quest to Build the Perfect Team, How I explained REST to my brother|
+ |[Read 08](301Read/read08/README.md)|SQL|
