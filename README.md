@@ -55,3 +55,5 @@
  |Read 06](#)|Node.js|
  |[Read 07](301Read/read07/README.md)|What Google Learned From Its Quest to Build the Perfect Team, How I explained REST to my brother|
  |[Read 08](301Read/read08/README.md)|SQL|
+ |[Read 09](301Read/read09/README.md)|Refactoring JavaScript for Performance and Readability|
+ |[Read 10](301Read/read10/README.md)|The Call Stack defined on MDN, Understanding the JavaScript Call Stack],JavaScript error messages && debugging|
