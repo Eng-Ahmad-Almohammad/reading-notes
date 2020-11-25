@@ -68,3 +68,4 @@
 
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
+ |[Read 01](401Read/read01/Readme.md)|Pain vs. Suffering, Beginners Guide to Big O notation|
