@@ -72,3 +72,4 @@
  |[Read 02](401Read/read02/Readme.md)|In Tests We Trust — TDD with Python, Recursion|
  |[Read 03](401Read/read03/Readme.md)|Python Exceptions, Read & Write Files in Python|
  |[Read 04](401Read/read04/Readme.md)|Classes and Objects, Thinking Recursively in Python, Fixtures|
+ |[Read 05](401Read/read05/Readme.md)|Linked lists
