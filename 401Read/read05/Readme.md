@@ -1,7 +1,7 @@
 # Table of contents
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
-|1|[Linked List](Linked-Lists.md)
+|5|[Linked List](Linked-Lists.md)
 
 
 
