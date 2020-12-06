@@ -74,3 +74,4 @@
  |[Read 04](401Read/read04/Readme.md)|Classes and Objects, Thinking Recursively in Python, Fixtures|
  |[Read 05](401Read/read05/Readme.md)|Linked lists|
  |[Read 06](401Read/read06/Readme.md)|How to use Random Module, What is Risk Analysis|
+ |[Read 07](401Read/read07/Readme.md)|Python Scope|
