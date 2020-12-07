@@ -75,3 +75,4 @@
  |[Read 05](401Read/read05/Readme.md)|Linked lists|
  |[Read 06](401Read/read06/Readme.md)|How to use Random Module, What is Risk Analysis|
  |[Read 07](401Read/read07/Readme.md)|Python Scope|
+ |[Read 08](401Read/read08/Readme.md)|List Comprehensions|
