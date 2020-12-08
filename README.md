@@ -76,3 +76,4 @@
  |[Read 06](401Read/read06/Readme.md)|How to use Random Module, What is Risk Analysis|
  |[Read 07](401Read/read07/Readme.md)|Python Scope|
  |[Read 08](401Read/read08/Readme.md)|List Comprehensions|
+ |[Read 09](401Read/read09/Readme.md)|Dunder Methods, Statistics - Probability|
