@@ -77,3 +77,4 @@
  |[Read 07](401Read/read07/Readme.md)|Python Scope|
  |[Read 08](401Read/read08/Readme.md)|List Comprehensions|
  |[Read 09](401Read/read09/Readme.md)|Dunder Methods, Statistics - Probability|
+ |[Read 10](401Read/read10/Readme.md)|Stacks and Queues|
