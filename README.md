@@ -78,3 +78,4 @@
  |[Read 08](401Read/read08/Readme.md)|List Comprehensions|
  |[Read 09](401Read/read09/Readme.md)|Dunder Methods, Statistics - Probability|
  |[Read 10](401Read/read10/Readme.md)|Stacks and Queues|
+ |[Read 11](401Read/read11/Readme.md)|What is Jupyter Lab, NumPy|
