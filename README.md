@@ -79,3 +79,4 @@
  |[Read 09](401Read/read09/Readme.md)|Dunder Methods, Statistics - Probability|
  |[Read 10](401Read/read10/Readme.md)|Stacks and Queues|
  |[Read 11](401Read/read11/Readme.md)|What is Jupyter Lab, NumPy|
+ |[Read 12](401Read/read12/Readme.md)|10 minutes to pandas|
