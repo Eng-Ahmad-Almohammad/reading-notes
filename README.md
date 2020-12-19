@@ -83,3 +83,4 @@
  |[Read 13](401Read/read13/Readme.md)|How to Run Linear Regression in Python|
  |[Read 14](401Read/read14/Readme.md)|Matplotlib Tutorial|
  |[Read 15](401Read/read15/Readme.md)|Trees|
+ |[Read 16](401Read/read16/Readme.md)|Data Science Primer|
