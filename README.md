@@ -84,3 +84,4 @@
  |[Read 14](401Read/read14/Readme.md)|Matplotlib Tutorial|
  |[Read 15](401Read/read15/Readme.md)|Trees|
  |[Read 16](401Read/read16/Readme.md)|Data Science Primer|
+ |[Read 17](401Read/read17/Readme.md)|Web Scrape with Python in 4 minutes, What is Web Scraping?|
