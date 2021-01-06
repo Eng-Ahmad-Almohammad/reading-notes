@@ -91,3 +91,4 @@
  |[Read 21](401Read/read21/Readme.md)|Using Models, Django Admin|
  |[Read 22](401Read/read22/Readme.md)|Django Forms|
  |[Read 23](401Read/read23/Readme.md)|Django Custum User Model|
+ |[Read 24](401Read/read24/Readme.md)|Hashtables|
