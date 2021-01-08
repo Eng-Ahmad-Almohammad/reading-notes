@@ -150,7 +150,7 @@ LOGOUT_REDIRECT_URL = 'home'
 (accounts) $ touch templates/home.html
 ```
 ### Update the files as follows:
-```html
+```
 <!-- templates/base.html -->
 <!DOCTYPE html>
 <html>
@@ -166,7 +166,7 @@ LOGOUT_REDIRECT_URL = 'home'
 </body>
 </html>
 ```
-```html
+```
 <!-- templates/home.html -->
 {% extends 'base.html' %}
 
@@ -183,7 +183,7 @@ LOGOUT_REDIRECT_URL = 'home'
 {% endif %}
 {% endblock %}
 ```
-```html
+```
 <!-- templates/registration/login.html -->
 {% extends 'base.html' %}
 
@@ -198,7 +198,7 @@ LOGOUT_REDIRECT_URL = 'home'
 </form>
 {% endblock %}
 ```
-```html
+```
 <!-- templates/registration/signup.html -->
 {% extends 'base.html' %}
 
