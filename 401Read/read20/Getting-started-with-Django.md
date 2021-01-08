@@ -221,7 +221,7 @@ def homepage(request):
 
 <html>
   <head>
-    <title>{% trans 'Homepage - Hall of Fame' %}</title>
+    
   </head>
   <body>
     {# Translated in the view: #}
