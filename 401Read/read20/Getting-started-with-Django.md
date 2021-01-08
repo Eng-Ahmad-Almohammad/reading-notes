@@ -217,33 +217,7 @@ def homepage(request):
     message = gettext('Welcome to our site!')
     return render(request, 'homepage.html', {'message': message})
 ```
-```html    
 
-<html>
-  <head>
-    
-  </head>
-  <body>
-    {# Translated in the view: #}
-    <h1>{{ message }}</h1>
-    <p>
-      
-      Here is the only band in the hall of fame:
-      {% plural %}
-      Here are all the {{ member_count }} bands in the hall of fame:
-      {% endblocktrans %}
-    </p>
-    <ul>
-    {% for band in bands %}
-      <li>
-        <h2><a href="{{ band.get_absolute_url }}">{{ band.name }}</a></h2>
-        {% if band.can_rock %}<p>{% trans 'This band can rock!' %}</p>{% endif %}
-      </li>
-    {% endfor %}
-    </ul>
-  </body>
-</html>
-```
 ## **Security**
 ### Django provides multiple protections against:
 
