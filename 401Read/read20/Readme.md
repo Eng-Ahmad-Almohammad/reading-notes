@@ -237,7 +237,7 @@ def homepage(request):
     {# Translated in the view: #}
     <h1>{{ message }}</h1>
     <p>
-      {% blocktrans count member_count=bands.count %}
+      
       Here is the only band in the hall of fame:
       {% plural %}
       Here are all the {{ member_count }} bands in the hall of fame:
