@@ -218,7 +218,7 @@ def homepage(request):
     return render(request, 'homepage.html', {'message': message})
 ```
 ```html    
-{% load i18n %}
+
 <html>
   <head>
     <title>{% trans 'Homepage - Hall of Fame' %}</title>
