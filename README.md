@@ -94,3 +94,4 @@
  |[Read 24](401Read/read24/Readme.md)|Hashtables|
  |[Read 25](401Read/read25/Readme.md)|Beginner’s Guide to Docker, Django for APIs - Library Website|
  |[Read 26](401Read/read26/Readme.md)|Permissions|
+ |[Read 27](401Read/read27/Readme.md)|JSON Web Tokens, DRF JWT Authentication|
