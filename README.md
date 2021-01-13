@@ -96,3 +96,4 @@
  |[Read 26](401Read/read26/Readme.md)|Permissions|
  |[Read 27](401Read/read27/Readme.md)|JSON Web Tokens, DRF JWT Authentication|
  |[Read 28](401Read/read28/Readme.md)|Django Settings Best Practices, SSH Tutorial|
+ |[Read 29](401Read/read29/Readme.md)|Graphs|
