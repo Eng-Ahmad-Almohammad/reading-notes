@@ -98,3 +98,4 @@
  |[Read 28](401Read/read28/Readme.md)|Django Settings Best Practices, SSH Tutorial|
  |[Read 29](401Read/read29/Readme.md)|Graphs|
  |[Read 30](401Read/read30/Readme.md)|Whiteboard Advice, 7 tips to ace a programming interview|
+ |[Read 31](401Read/read31/Readme.md)|React 1|
