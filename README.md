@@ -100,3 +100,4 @@
  |[Read 30](401Read/read30/Readme.md)|Whiteboard Advice, 7 tips to ace a programming interview|
  |[Read 31](401Read/read31/Readme.md)|React 1|
  |[Read 32](401Read/read32/Readme.md)|React 2|
+ |[Read 33](401Read/read33/Readme.md)|NextJs|
