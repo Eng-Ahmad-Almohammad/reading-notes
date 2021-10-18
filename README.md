@@ -1,28 +1,8 @@
 # Reading Notes
-## This file will be for *Read* assignments.
+
 ### This website will include my notes for reading assignments durin the defferent levels.
-## Code 102 - Intro to Software Development
-## Code 201 - Foundations of Software Development
-## Code 301 - Intermediate Software Development
-## Code 401 - Advanced Software Development
 
-
-## I used in them following features:
- 1- *Italic*
-
-2- Tables
-
-- [x]  Check box with correct character 
-
-- [ ] Check box without correct character 
-
-5- Ordered lists
-
-6- images
-
-7- Links
-
- ## Table of content for Code 201
+ ## Code 201 - Foundations of Software Development
 
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
@@ -43,7 +23,7 @@
  |[Read 14b](read14b.md)|What Google Learned From Its Quest to Build the Perfect Team|
 
 
-## Table of content for Code 301
+## Code 301 - Intermediate Software Development
 
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
@@ -64,7 +44,7 @@
  |[Read 15](301Read/read15/README.md)|Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago, Why diversity matters to your tech company|
 
 
- ## Table of content for Code 401
+ ## Code 401 - Advanced Software Development using python
 
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
