@@ -143,7 +143,7 @@ LOGOUT_REDIRECT_URL = 'home'
 </head>
 <body>
   <main>
-    {% blocks content %}
+    {%  content %}
     {% endblocks %}
   </main>
 </body>
@@ -153,9 +153,9 @@ LOGOUT_REDIRECT_URL = 'home'
 <!-- templates/home.html -->
 {% extends 'base.html' %}
 
-{% blocks title %}Home{% endblocks %}
+{%  title %}Home{% endblocks %}
 
-{% blocks content %}
+{%  content %}
 {% if user.is_authenticated %}
   Hi {{ user.username }}!
   <p><a href="{% url 'logout' %}">Log Out</a></p>
@@ -170,9 +170,9 @@ LOGOUT_REDIRECT_URL = 'home'
 <!-- templates/registration/login.html -->
 {% extends 'base.html' %}
 
-{% blocks title %}Log In{% endblocks %}
+{%  title %}Log In{% endblocks %}
 
-{% blocks content %}
+{%  content %}
 <h2>Log In</h2>
 <form method="post">
   {% csrf_token %}
@@ -185,9 +185,9 @@ LOGOUT_REDIRECT_URL = 'home'
 <!-- templates/registration/signup.html -->
 {% extends 'base.html' %}
 
-{% blocks title %}Sign Up{% endblocks %}
+{%  title %}Sign Up{% endblocks %}
 
-{% blocks content %}
+{%  content %}
 <h2>Sign Up</h2>
 <form method="post">
   {% csrf_token %}
