@@ -88,3 +88,6 @@
  |Read No. | Name of chapter|
  |:---------: |:--------------:|
  |[Read 04](401ReadCSharp/read04/README.md)|Classes & Memory Management|
+ |[Read 05](401ReadCSharp/read05/README.md)|Object Oriented Principles|
+
+ 
