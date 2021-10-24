@@ -143,8 +143,8 @@ LOGOUT_REDIRECT_URL = 'home'
 </head>
 <body>
   <main>
-    {% block content %}
-    {% endblock %}
+    {% blocks content %}
+    {% endblocks %}
   </main>
 </body>
 </html>
@@ -153,9 +153,9 @@ LOGOUT_REDIRECT_URL = 'home'
 <!-- templates/home.html -->
 {% extends 'base.html' %}
 
-{% block title %}Home{% endblock %}
+{% blocks title %}Home{% endblocks %}
 
-{% block content %}
+{% blocks content %}
 {% if user.is_authenticated %}
   Hi {{ user.username }}!
   <p><a href="{% url 'logout' %}">Log Out</a></p>
@@ -164,37 +164,37 @@ LOGOUT_REDIRECT_URL = 'home'
   <a href="{% url 'login' %}">Log In</a> |
   <a href="{% url 'signup' %}">Sign Up</a>
 {% endif %}
-{% endblock %}
+{% endblocks %}
 ```
 ```
 <!-- templates/registration/login.html -->
 {% extends 'base.html' %}
 
-{% block title %}Log In{% endblock %}
+{% blocks title %}Log In{% endblocks %}
 
-{% block content %}
+{% blocks content %}
 <h2>Log In</h2>
 <form method="post">
   {% csrf_token %}
   {{ form.as_p }}
   <button type="submit">Log In</button>
 </form>
-{% endblock %}
+{% endblocks %}
 ```
 ```
 <!-- templates/registration/signup.html -->
 {% extends 'base.html' %}
 
-{% block title %}Sign Up{% endblock %}
+{% blocks title %}Sign Up{% endblocks %}
 
-{% block content %}
+{% blocks content %}
 <h2>Sign Up</h2>
 <form method="post">
   {% csrf_token %}
   {{ form.as_p }}
   <button type="submit">Sign Up</button>
 </form>
-{% endblock %}
+{% endblocks %}
 ```
 ### Now for our urls.py files at the project and app level.
 ```python
