@@ -1,4 +1,5 @@
 # Table of contents
+
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
 |6|[How to use Random Module](How-to-use-Random-Module.md)

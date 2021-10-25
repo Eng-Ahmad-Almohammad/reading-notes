@@ -1,4 +1,5 @@
 # Table of contents
+
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
 |28|[Django Settings Best Practices](Django-Settings-Best-Practices.md)

@@ -1,4 +1,5 @@
 # Table of contents
+
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
 |31|[ES6 Syntax and Feature Overview](ES6-Syntax-and-Feature-Overview.md)

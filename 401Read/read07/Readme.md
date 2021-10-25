@@ -1,4 +1,5 @@
 # Table of contents
+
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
 |7|[Python Scope](Python-Scope.md)
