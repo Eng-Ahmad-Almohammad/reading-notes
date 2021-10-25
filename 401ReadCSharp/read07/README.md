@@ -48,6 +48,35 @@ public class Car : IEquatable<Car>
 }
 ```
 
+### n the following example, class ImplementationClass must implement a method named SampleMethod that has no parameters and returns void.
+
+```csharp
+interface ISampleInterface
+{
+    void SampleMethod();
+}
+
+class ImplementationClass : ISampleInterface
+{
+    // Explicit interface member implementation:
+    void ISampleInterface.SampleMethod()
+    {
+        // Method implementation.
+    }
+
+    static void Main()
+    {
+        // Declare an interface instance.
+        ISampleInterface obj = new ImplementationClass();
+
+        // Call the member.
+        obj.SampleMethod();
+    }
+}
+```
+
+
+
 
 
 # What is an Interface?
