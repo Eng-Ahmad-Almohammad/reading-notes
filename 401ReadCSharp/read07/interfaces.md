@@ -37,7 +37,7 @@ public class Car : IEquatable<Car>
 }
 ```
 
-### n the following example, class ImplementationClass must implement a method named SampleMethod that has no parameters and returns void.
+### In the following example, class ImplementationClass must implement a method named SampleMethod that has no parameters and returns void.
 
 ```csharp
 interface ISampleInterface

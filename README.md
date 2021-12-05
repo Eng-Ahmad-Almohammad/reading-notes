@@ -89,6 +89,6 @@
  |:---------: |:--------------:|
  |[Read 04](401ReadCSharp/read04/README.md)|Classes & Memory Management|
  |[Read 06](401ReadCSharp/read06/README.md)|Object Oriented Principles|
- |[Read 07](401ReadCSharp/read07/README.md)|Object Oriented Principles|
+ |[Read 07](401ReadCSharp/read07/README.md)|Interfaces|
 
  
