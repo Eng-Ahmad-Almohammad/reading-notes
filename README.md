@@ -94,5 +94,6 @@
  |[Read 09](401ReadCSharp/read09/README.md)|LINQ|
  |[Read 11](401ReadCSharp/read11/README.md)|DBMS|
  |[Read 12](401ReadCSharp/read12/README.md)|Entity Framework and APIs|
+ |[Read 13](401ReadCSharp/read13/README.md)|Dependency Injection & Repository Design Pattern|
 
  
