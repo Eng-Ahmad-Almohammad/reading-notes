@@ -6,8 +6,8 @@
 
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
-|11|[Get started with EF Core in an ASP.NET MVC web app](get-startred.md)|
-|11|[Entity Framework Core](Entity-Framework-Core.md)|
+|12|[Get started with EF Core in an ASP.NET MVC web app](get-startred.md)|
+|12|[Entity Framework Core](Entity-Framework-Core.md)|
 
 
 
