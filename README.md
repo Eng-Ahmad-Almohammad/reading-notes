@@ -96,5 +96,6 @@
  |[Read 12](401ReadCSharp/read12/README.md)|Entity Framework and APIs|
  |[Read 13](401ReadCSharp/read13/README.md)|Dependency Injection & Repository Design Pattern|
  |[Read 14](401ReadCSharp/read14/README.md)|Navigation Properties and Routing|
+ |[Read 16](401ReadCSharp/read16/README.md)|Data Transfer Objects|
 
  
