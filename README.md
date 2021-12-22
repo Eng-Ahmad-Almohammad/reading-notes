@@ -97,5 +97,6 @@
  |[Read 13](401ReadCSharp/read13/README.md)|Dependency Injection & Repository Design Pattern|
  |[Read 14](401ReadCSharp/read14/README.md)|Navigation Properties and Routing|
  |[Read 16](401ReadCSharp/read16/README.md)|Data Transfer Objects|
+ |[Read 17](401ReadCSharp/read17/README.md)|Testing and Swagger and Deployment|
 
  
