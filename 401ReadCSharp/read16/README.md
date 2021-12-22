@@ -5,8 +5,8 @@
 
 |Read No. | Name of chapter|
 |:---------: |:--------------:|
-|15|[Create Data Transfer Objects (DTOs)](CreteDOT.md)|
-|15|[How to use Data Transfer Objects in ASP.NET Core](How-to-use-Data-Transfer-Objects.md)|
+|16|[Create Data Transfer Objects (DTOs)](CreteDOT.md)|
+|16|[How to use Data Transfer Objects in ASP.NET Core](How-to-use-Data-Transfer-Objects.md)|
 
 
 # Create Data Transfer Objects (DTOs)
