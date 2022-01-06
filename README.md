@@ -98,5 +98,6 @@
  |[Read 14](401ReadCSharp/read14/README.md)|Navigation Properties and Routing|
  |[Read 16](401ReadCSharp/read16/README.md)|Data Transfer Objects|
  |[Read 17](401ReadCSharp/read17/README.md)|Testing and Swagger and Deployment|
+ |[Read 18](401ReadCSharp/read18/README.md)|Identity|
 
  
