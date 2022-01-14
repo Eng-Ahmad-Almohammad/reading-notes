@@ -100,5 +100,6 @@
  |[Read 17](401ReadCSharp/read17/README.md)|Testing and Swagger and Deployment|
  |[Read 18](401ReadCSharp/read18/README.md)|Identity|
  |[Read 19](401ReadCSharp/read19/README.md)|Roles, Claims and JWT Tokens|
+ |[Read 26](401ReadCSharp/read26/README.md)|Intro to MVC|
 
  
